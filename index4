@@ -1,11 +1,19 @@
 <!DOCTYPE html>
-<html>
+<htmli lang="en">
 <head>
-<title>Page Title</title>
-<link rel="stylesheet" href="style.css" />
-</head>
-<body>
-</style>
+    <body>
+        <style>
+h1 {
+    color: blueviolet;
+}
+
+p {
+   color:black;
+}
+.paragrafo_vermelho {
+    color:red;
+}
+
 
 </style>
 <h1>This is a Heading</h1>
