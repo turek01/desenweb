@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+</style>
+
+</style>
+<h1>This is a Heading</h1>
+<h1> segundo h1</h1>
+<p>This is a paragraph.</p>
+<p class="paragrafo_vermelho">this is a paragraph 2.</p>
+<p>This is a paragraph .</p>
+<a href="segundaPagina.html">ir para segunda pagina</a>
+<br\>
+<a href="https://www.google.com">ir para google</a>
+</body>
+</html>
